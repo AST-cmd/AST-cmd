@@ -1,16 +1,56 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Alexis!
 
-<!--
-**AST-cmd/AST-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy Ingeniero en Sistemas apasionado por la tecnología, el desarrollo de software y la automatización.  
+Bienvenido a mi perfil de GitHub, donde comparto proyectos relacionados con programación, bots, análisis de datos y más.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologías y Lenguajes que utilizo
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" />
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" title="Java" alt="Java" width="40" />
+</div>
+
+<br clear="left"/>
+
+---
+
+### 📊 Estadísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="Estadísticas de GitHub" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=AST-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
+  />
+
+  <img 
+    align="left" 
+    alt="Lenguajes más usados" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AST-cmd&theme=tokyonight&layout=compact&custom_title=Lenguajes más usados&langs_count=8" 
+  />
+</p>
+
+<br clear="left"/>
+
+---
+
+### 🚀 Proyectos destacados
+
+- 🤖 Bot de Telegram para automatización de procesos productivos  
+- 📊 Visualización de datos en tiempo real con Google Sheets  
+- ⚙️ Automatización con Python y APIs  
+
+Gracias por visitar mi perfil 🙌
+
+
+---
+
+> “La tecnología mueve el mundo, pero la pasión impulsa a quienes lo transforman.”

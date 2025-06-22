@@ -29,13 +29,6 @@ Bienvenido a mi perfil de GitHub, donde comparto proyectos relacionados con prog
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AST-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
   />
-
-  <img 
-    align="left" 
-    alt="Lenguajes más usados" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AST-cmd&theme=tokyonight&layout=compact&custom_title=Lenguajes más usados&langs_count=8" 
-  />
 </p>
 
 <br clear="left"/>

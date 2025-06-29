@@ -46,4 +46,9 @@ Gracias por visitar mi perfil 🙌
 
 ---
 
+### Actividad reciente
+
+
+---
+
 > “La tecnología mueve el mundo, pero la pasión impulsa a quienes lo transforman.”

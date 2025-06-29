@@ -46,8 +46,10 @@ Gracias por visitar mi perfil 🙌
 
 ---
 
-### Actividad reciente
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
